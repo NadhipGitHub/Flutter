@@ -86,7 +86,7 @@ class ChromeProfileSetup extends State<MyApp>{
                     horizontal: 40, vertical: 12),
                 ),
                 child: const Text(
-                  'Sign in',
+                  'Sign inn',
                   style: TextStyle(color: Colors.white, fontSize: 16),
                 ),
               ),
@@ -94,7 +94,7 @@ class ChromeProfileSetup extends State<MyApp>{
               TextButton(
                 onPressed: () {},
                 child: const Text(
-                  'Continue without an account',
+                  'Continue without an accountt',
                   style: TextStyle(fontSize: 16, color: Colors.blue),
                 ),
               ),
